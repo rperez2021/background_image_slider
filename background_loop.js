@@ -1,11 +1,11 @@
 var backgroundHolder = document.getElementsByClassName('background-layer-holder')[0];
 var images = [
-    '/SliderImages/background_1_resized.jpg',
-    '/SliderImages/background_2_resized.jpg',
-    '/SliderImages/background_3_resized.jpg',
-    '/SliderImages/background_4_resized.jpg',
-    '/SliderImages/background_5_resized.jpg',
-    '/SliderImages/background_6_resized.jpg'
+    './SliderImages/Slide/Slide/background_1_resized.jpg',
+    './SliderImages/Slide/Slide/background_2_resized.jpg',
+    './SliderImages/Slide/Slide/background_3_resized.jpg',
+    './SliderImages/Slide/Slide/background_4_resized.jpg',
+    './SliderImages/Slide/Slide/background_5_resized.jpg',
+    './SliderImages/Slide/Slide/background_6_resized.jpg'
 ];
 var i;
 
